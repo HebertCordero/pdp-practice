@@ -3,6 +3,9 @@
 Product Display Page Practice is a simple HTML + CSS + JQUERY practice I did to better my skills
 feel free to use the code however you like, soon I will ad a PLP display for this same project.
 
+
+[TRY IT LIVE HERE](https://codepen.io/HebertCordero/pen/jOqmdNR)
+
 ## The Project
 
 ![Animations + Change Style](https://media.giphy.com/media/d695GHtl2NqkH4cGPS/giphy.gif)
